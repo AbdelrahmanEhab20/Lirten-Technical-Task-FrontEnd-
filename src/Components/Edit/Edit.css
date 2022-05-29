@@ -1,0 +1,40 @@
+.box-Group-Style {
+  border: 5px solid rgb(255, 255, 255);
+  width: 550px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 500px;
+}
+
+.New-Btn {
+  background-color: #161b45;
+  border-radius: 53px;
+  border: white 1px solid;
+  color: white;
+  font-weight: 700;
+}
+.New-Btn:hover {
+  background-color: #ffffff;
+  color: #161b45;
+  border: 2px solid #161b45;
+  font-weight: 700;
+}
+.Heading-Submit {
+  font-weight: 750;
+  font-size: 58px;
+  line-height: 70px;
+  color: #161b45;
+}
+.New-Btn-Delete {
+  background-color: #ffffff;
+  border-radius: 53px;
+  border: rgb(255, 0, 0) 2px solid;
+  color: rgb(255, 0, 0);
+  font-weight: 700;
+}
+
+.New-Btn-Delete:hover {
+  color: black;
+  background-color: rgb(239, 73, 73);
+}

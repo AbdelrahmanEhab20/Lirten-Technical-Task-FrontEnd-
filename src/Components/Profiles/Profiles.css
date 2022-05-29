@@ -1,0 +1,87 @@
+/* Features Section */
+
+.features-section {
+  padding: 60px 0 50px;
+  background-color: #ffffff;
+}
+
+.features-section .features-item {
+  box-shadow: 0 0 20px #d9d9d9;
+  padding: 40px 10px;
+  margin-bottom: 30px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 5px;
+  text-align: center;
+  transition: all 0.5s ease;
+}
+
+/* .features-section .features-item:hover {
+  transform: translateY(-10px);
+} */
+
+/* .features-section .features-item .icon {
+  margin-bottom: 25px;
+} */
+/* 
+.features-section .features-item .icon i {
+  font-size: 40px;
+  display: inline-block;
+  transition: all 0.5s ease;
+} */
+
+/* .features-section .features-item h3 {
+  font-size: 22px;
+  font-weight: 600;
+  color: #222;
+  line-height: 30px;
+  margin: 0 0 15px;
+  transition: all 0.5s ease;
+} */
+
+.features-section .features-item p {
+  font-size: 16px;
+  line-height: 26px;
+  color: #555555;
+  transition: all 0.5s ease;
+  font-weight: 400;
+}
+
+/* .features-section .features-item:hover .icon i,
+.features-section .features-item:hover h3,
+.features-section .features-item:hover p {
+  color: #fff;
+} */
+
+.section-title .subtitle {
+  margin-bottom: 20px;
+  font-weight: 900;
+  font-size: 40px;
+  line-height: 70px;
+  color: #161b45;
+}
+
+.Text-Color-H {
+  color: #39cffa;
+  font-weight: 700;
+}
+.Text-Color-H2 {
+  font-weight: 500;
+}
+
+.button {
+  background-color: #ffffff;
+  border: 2px white solid;
+  box-shadow: 0 0 20px #b1b0b0;
+  padding: 20px;
+  display: block;
+  border-radius: 50%;
+  border: 1px solid rgb(255, 255, 255);
+  margin: 30px ;
+  float: right;
+  margin-right:80px ;
+  cursor: pointer;
+}
+
+.button:hovr{
+  background-color: #39cffa;
+}
